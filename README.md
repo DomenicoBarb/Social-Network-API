@@ -30,7 +30,7 @@ A NoSQL database API for a social network web application where users can share 
 ![Screenshot of Application](./assets/images/screenshot.png)
 
 ## Video Demo:
-
+https://user-images.githubusercontent.com/119437696/235577227-f3138229-8742-4f11-973c-fc42de6c68c9.mp4
 
 ## License
 
